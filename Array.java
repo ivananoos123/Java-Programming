@@ -28,4 +28,4 @@ public class Array {
         System.out.println("Number of salespeople who's earned salary is more than Php500: "+counter);
     }
 
-}
+}//hehe
